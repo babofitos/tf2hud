@@ -36,8 +36,8 @@ Scheme
 		"OmpSpecHPBuff"		"125 225 30 255"
 		"OmpSpecHPLow"		"255 200 30 255"
 		
-		"OmpAmmoClip"		"30 225 225 255"
-		"OmpAmmoReserve"	"255 30 255 255"
+		"OmpAmmoClip"		"160 205 25 255"
+		"OmpAmmoReserve"	"25 150 185 255"
 		"OmpAmmoMetal"		"125 225 30 255"
 		"OmpDemoPipes"		"255 255 255 255"
 
