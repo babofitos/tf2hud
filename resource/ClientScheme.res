@@ -2430,6 +2430,36 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"Garm3n24"
+		{
+			"1"
+			{
+				"name"		"Novecentowide-DemiBold"
+				"tall"		"24"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Garm3n36"
+		{
+			"1"
+			{
+				"name"		"Novecentowide-DemiBold"
+				"tall"		"36"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Garm3n32"
+		{
+			"1"
+			{
+				"name"		"Novecentowide-DemiBold"
+				"tall"		"32"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
 		"Futura32"
 		{
 			"1"

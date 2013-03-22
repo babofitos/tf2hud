@@ -88,7 +88,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"FuturaHeavy56"
+		"font"			"Garm3n36"
 		"fgcolor"		"OmpHP"
 
 		"xpos_minmode"	"0"
@@ -110,7 +110,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"FuturaHeavy56"
+		"font"			"Garm3n36"
 		"fgcolor"		"OmpShadow"
 		
 		"xpos_minmode"	"1"

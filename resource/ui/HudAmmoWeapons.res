@@ -40,7 +40,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"FuturaHeavy56"
+		"font"			"Garm3n36"
 		"fgcolor"		"OmpAmmoClip"
 		"xpos"			"0"
 		"ypos"			"37" // omp -- -9 Mac fix.
@@ -63,7 +63,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"FuturaHeavy56"
+		"font"			"Garm3n36"
 		"fgcolor"		"OmpShadow"
 		"xpos"			"2"
 		"ypos"			"39"
@@ -85,7 +85,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"Futura32"
+		"font"			"Garm3n32"
 		"fgcolor"		"OmpAmmoReserve"
 		"xpos"			"67"
 		"ypos"			"49"
@@ -107,7 +107,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"Futura32"
+		"font"			"Garm3n32"
 		"fgcolor"		"OmpShadow"
 		"xpos"			"68"
 		"ypos"			"50"
@@ -129,7 +129,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"FuturaHeavy56"
+		"font"			"Garm3n36"
 		"fgcolor"		"OmpAmmoClip"
 		"xpos"			"0"
 		"ypos"			"37"
@@ -151,7 +151,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"FuturaHeavy56"
+		"font"			"Garm3n36"
 		"fgcolor"		"OmpShadow"
 		"xpos"			"2"
 		"ypos"			"39"
